@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+<head>
+
+<title>diesh</title>
+<meta charset="UTF-8">
+<meta name="description" content="procura baterista lisboa portugal math rock">
+<meta name="keywords" content="baterista, procura, math rock, noise rock, duo instrumental, lisboa, portugal">
+<meta name="author" content="diesh">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<style>
+body {
+	background-color: Lavender;
+	
+	background-image: url("flm0018.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+	font-family: courier;
+	font-size: 90%;
+}
+a:link {
+  color: mediumblue;
+<!--  font-family:verdana; -->
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: DarkRed;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+img {
+	width:23%;
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  img {
+    width: 80%;
+  }
+}
+</style>
+</head>
+<body>
+
+<p> Sou a Iris, toco guitarra e moro na zona de Lisboa. <!-- Recentemente comecei a tocar com  <a href="https://putasbebadas.bandcamp.com/" target="_blank">Putas Bêbadas</a>. --> </p>
+<p> Estou &#224 procura de baterista com muito tempo dispon&#237vel para criarmos em duo (bateria/guitarra el&#233trica) num esp&#237rito livre e punk, e rapidamente come&#231armos a dar concertos. </p>
+<p> Sou bastante influenciada por bandas como <a href="https://inv.riverside.rocks/watch?v=J4XFZuhn7SQ" target="_blank"> Cheval de Frise</a>, <a href="https://vid.puffyan.us/watch?v=zIjFiuEiZfM" target="_blank"> NYOS</a>, <a href="https://www.youtube.com/watch?v=l8LasYH_NPs&list=OLAK5uy_kWcDh5aq5-ui4yo4174qXiLyiZMmCi9XA&index=9" target="_blank"> Chevreuil</a> <a href="https://inv.riverside.rocks/watch?v=6iXMC7Ob6WU" target="_blank">. </a> </p>
+<p> Contactem-me por e-mail: <a href="mailto:diesh@protonmail.com">diesh@protonmail.com</a> </p>
+<center> <img src="f2.jpg" alt="foto"></center>
+
+<audio controls>
+  <source src="55s.mp4" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<!-- (á, é, í, ó, ú) -->
+
+</body>
+</html>
